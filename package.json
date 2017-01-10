@@ -1,0 +1,15 @@
+{
+  "name": "holbox-dark-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Ocean and sky blue's meet the beach",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/holbox-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
